@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dataMoney.json</file>
+    </qresource>
+</RCC>
